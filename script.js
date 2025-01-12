@@ -1,2 +1,2 @@
 //your code here
-consol.log("Favourite song link added successfully!");
+console.log("Favourite song link added successfully!");
